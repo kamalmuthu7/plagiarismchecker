@@ -66,5 +66,5 @@ Please read [CONTRIBUTING.md](https://github.com/syedsiddhiqq/plagiarismchecker/
 
 ## Author
 
-* **Syed Ali**
+* **Kamalesh**
 
